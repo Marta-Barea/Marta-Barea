@@ -16,6 +16,6 @@
 - **Fields of Interest:** Machine Learning, Data Science, DevSecOps, SRE
 
 ### 🎨 Personal Interests
-- In my free time, I enjoy **reading**, especially **fantasy** and **romance** novels.
-- **Painting** is another passion of mine.
-- I love spending time with my dog **Newton** 🐶.
+- In my free time, I enjoy **reading**, especially **fantasy** and **romance** novels
+- **Painting** is another passion of mine
+- I love spending time with my dog **Newton** 🐶
