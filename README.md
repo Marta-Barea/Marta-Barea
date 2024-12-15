@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello World! 😊, I’m Marta, Co-founder and CEO of Nebux Cloud S.L., with a Ph.D. in Analytical Chemistry and expertise in data processing, machine learning, and SRE. I’m passionate about turning research into practical solutions, improving processes through innovation, and making STEM more accessible and inclusive
+Hello World! 😊 I’m Marta, Co-founder and CEO of Nebux Cloud S.L., with a Ph.D. in Analytical Chemistry and expertise in data processing, machine learning, and SRE. I’m passionate about turning research into practical solutions, improving processes through innovation, and making STEM more accessible and inclusive
 
 
 ## 🌐 Socials:
